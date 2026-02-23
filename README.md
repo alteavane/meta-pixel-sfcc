@@ -75,7 +75,7 @@ This open-source solution fills that gap.
 2. Replace `'000000000000000'` with your actual Pixel ID:
 
 ```javascript
-const PIXEL_ID = '857591283934633';  // ← Your Pixel ID here
+const PIXEL_ID = '000000000000000';  // ← Your Pixel ID here
 ```
 
 ### Step 3: Install in Experience Builder
